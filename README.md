@@ -19,6 +19,5 @@ Bu proje, bir **RC Alçak Geçiren Filtre (Low-Pass Filter)** devresinin frekans
 ## 📊 Kurulum ve Çalıştırma
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-1. Depoyu klonlayın:
-   ```bash
+
 git clone https://github.com/Denyz4/rc_filtre_gurultu_analizi.git
