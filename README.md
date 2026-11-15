@@ -21,4 +21,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 
 1. Depoyu klonlayın:
    ```bash
-   git clone [https://github.com/Denyz4/rc_filtre_gurultu_analizi.git](https://github.com/Denyz4/rc_filtre_gurultu_analizi.git)
+git clone https://github.com/Denyz4/rc_filtre_gurultu_analizi.git
